@@ -1,4 +1,4 @@
-# DBMS Notes 
+# DBMS Notes
 
 ## Important Points
 
