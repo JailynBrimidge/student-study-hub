@@ -36,7 +36,8 @@ Open `index.html` locally.
 
 ## GitHub Pages Link
 https://github.com/JailynBrimidge/student-study-hub
-http://127.0.0.1:5500/index.html
+## Live Site
+https://jailynbrimidge.github.io/student-study-hub/
 
 ## What I Learned
 Through this assignment, I learned how to create repositories, use branches, make meaningful commits, create pull requests, manage issues, organize project work with a board, resolve merge conflicts, deploy a site using GitHub Pages, and create releases and GitHub Actions workflows.
